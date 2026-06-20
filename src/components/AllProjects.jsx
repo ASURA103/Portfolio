@@ -16,7 +16,7 @@ const AllProjects = () => {
     {
       title: "Ecommerce",
       description:
-        "Welcome To Grace Attire, Your Go-To Platform for Shopping, clothings",
+        "Welcome To SHOPSY, Your Go-To Platform for Shopping, clothings",
       tech: ["React", "Tailwind","css"],
       github: "https://github.com/ASURA103/Ecommerce",
       category: "Frontend",
