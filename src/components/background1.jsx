@@ -1,4 +1,3 @@
-import myself from "./../assets/myself.jpg";
 import myself1 from "./../assets/myself1.jpg"
 import { useEffect, useRef } from "react";
 import * as THREE from "three";
