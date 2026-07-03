@@ -31,6 +31,15 @@ const AllProjects = () => {
       category: "Full Stack",
       link: "https://asura-taskflaw.vercel.app/",
     },
+    {
+      title: "Document Manager",
+      description:
+        "Welcome To Doc-Manager, Your Go-To Platform for managing your Documents",
+      tech: ["React", "Tailwind", "Node", "Express", "MongoDB"],
+      github: "https://github.com/ASURA103/Document-Manager-Web-Application",
+      category: "Full Stack",
+      link: "https://document-manager-web-application.vercel.app/",
+    },
   ];
 
   return (
