@@ -36,18 +36,6 @@ export default function Footers() {
             <FaXTwitter className="w-9 h-9" />
           </a>
         </nav>
-
-        <div>
-          <div className="flex items-center mb-2 gap-2">
-            <CiMail className="w-6 h-6" />
-            <h3>cyberevolving@gmail.com</h3>
-          </div>
-
-          <div className="flex items-center gap-2">
-            <SlLocationPin className="w-6 h-6" />
-            <h3>Panchkula, Haryana</h3>
-          </div>
-        </div>
       </div>
     </div>
   );
